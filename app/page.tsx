@@ -1,4 +1,4 @@
-import MainHeader from "./main-header/page";
+import MainHeader from "../components/main-header";
 
 export default function HomePage() {
   return (
